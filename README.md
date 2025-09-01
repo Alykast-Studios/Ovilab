@@ -1,2 +1,2 @@
 # Ovilab
-A free DAW, in which you can assemble your own fly studio from modules, the windows of which can be arranged like in tiling window managers 
+A free DAW, in which you can assemble your own music studio from modules, the windows of which can be arranged like in tiling window managers 
